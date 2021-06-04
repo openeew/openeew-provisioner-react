@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>IoT</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="IoT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="iot--platform">
+            <g>
+                <path d="M30,19 L26,19 L26,15 L24,15 L24,24 L8,24 L8,8 L17,7.9991 L17,6 L13,6 L13,2 L11,2 L11,6 L8,6 C6.89588748,6.00110246 6.00110246,6.89588748 6,8 L6,11 L2,11 L2,13 L6,13 L6,19 L2,19 L2,21 L6,21 L6,24 C6.00126747,25.1040441 6.89595593,25.9987325 8,26 L11,26 L11,30 L13,30 L13,26 L19,26 L19,30 L21,30 L21,26 L24,26 C25.1039528,25.9985127 25.9985127,25.1039528 26,24 L26,21 L30,21 L30,19 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M21,21 L11,21 L11,11 L21,11 L21,21 Z M13,19 L19,19 L19,13 L13,13 L13,19 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M31,13 L29,13 C28.9935527,7.47982526 24.5201747,3.0064473 19,3 L19,1 C25.6244241,1.00721985 30.9927802,6.37557587 31,13 L31,13 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M26,13 L24,13 C23.9967489,10.239924 21.760076,8.00325114 19,8 L19,6 C22.8640516,6.00468354 25.9953165,9.1359484 26,13 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

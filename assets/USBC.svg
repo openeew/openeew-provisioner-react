@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>USBC</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="USBC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="USB">
+            <g>
+                <path d="M24,15 L24,6 C24,4.8954305 23.1045695,4 22,4 L10,4 C8.8954305,4 8,4.8954305 8,6 L8,15 C6.8954305,15 6,15.8954305 6,17 L6,28 L8,28 L8,17 L24,17 L24,28 L26,28 L26,17 C26,15.8954305 25.1045695,15 24,15 Z M10,6 L22,6 L22,15 L10,15 L10,6 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12" y="10" width="3" height="2"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="17" y="10" width="3" height="2"></rect>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

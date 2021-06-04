@@ -9,6 +9,7 @@ import UserDetails from "./src/screens/UserDetails";
 import WifiDetails from "./src/screens/WifiDetails";
 import AddSensor from "./src/screens/AddSensor";
 import ThankYou from "./src/screens/ThankYou";
+import HowItWorks from "./src/screens/HowItWorks";
 
 export default function App() {
   return (
@@ -22,7 +23,8 @@ export default function App() {
       </View>
       <View style={styles.screen}>
         <NativeRouter>
-          <Route exact path="/" component={UserDetails} />
+          <Route exact path="/" component={HowItWorks} />
+          <Route exact path="/userDetails" component={UserDetails} />
           <Route exact path="/wifi" component={WifiDetails} />
           <Route exact path="/addSensor" component={AddSensor} />
           <Route exact path="/thankYou" component={ThankYou} />

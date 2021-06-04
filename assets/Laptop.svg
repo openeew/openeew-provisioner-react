@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Laptop</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.859291 0 0 0 0 0.859291 0 0 0 0 0.859291 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Laptop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="laptop">
+            <g>
+                <path d="M26,24.0049 L6,24.0049 C4.89595593,24.0036325 4.00126747,23.1089441 4,22.0049 L4,8.0049 C4.00110246,6.90078748 4.89588748,6.00600246 6,6.0049 L26,6.0049 C27.1040441,6.00616747 27.9987325,6.90085593 28,8.0049 L28,22.0049 C27.9985127,23.1088528 27.1039528,24.0034127 26,24.0049 Z M6,8.0049 L6,22.0049 L26,22.0049 L26,8.0049 L6,8.0049 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="2" y="26.0049" width="28" height="2"></rect>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
